@@ -15,6 +15,6 @@ Desktop View :
 
 Mobile View : 
 <img width="1440" alt="6" src="https://github.com/FrozenSpirit/foodie/assets/84676444/2849f8e1-8041-46b3-9253-4514ab335c72">
-
+<img width="1440" alt="9" src="https://github.com/FrozenSpirit/foodie/assets/84676444/1e204174-2d25-456b-b37e-fb6a1e712d64">
 <img width="1440" alt="7" src="https://github.com/FrozenSpirit/foodie/assets/84676444/856c0255-bc18-4c58-a455-af67e07ce06d">
 <img width="1440" alt="8" src="https://github.com/FrozenSpirit/foodie/assets/84676444/9a504f46-8d27-4db7-9f0a-a297be82056b">
